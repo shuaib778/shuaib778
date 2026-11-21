@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Shuaib Hassan 👋
 
-**IT Support & Network Infrastructure Engineer**
+**IT Support & Network Infrastructure Engineer**  
 📍 Dhaka, Bangladesh | 📧 shuaibh3227@gmail.com
 
 ---
@@ -9,19 +9,19 @@
 
 Network and IT Support Engineer at **Drik ICT Ltd.** I design, build, and maintain production IT systems that real teams depend on daily — from enterprise helpdesk platforms to real-time network monitoring infrastructure.
 
-🎫 Built **Trouble Tracker** — Live helpdesk & SLA platform (96.4% resolve rate, 415+ incidents managed)
-🌐 Built **Web NMS** — SNMP-based monitoring system for 57 devices across corporate clients including **Chevron Bangladesh**
-📡 Built **OLT Diagnostic Monitor** — Real-time fiber fault detection across 12 OLT sites
-🔧 Maintain **MikroTik RouterOS** configurations for multi-site ISP operations
+🎫 Built **Trouble Tracker** — Live helpdesk & SLA platform (96.4% resolve rate, 415+ incidents managed)  
+🌐 Built **Web NMS** — SNMP-based monitoring system for 57 devices across corporate clients including **Chevron Bangladesh**  
+📡 Built **OLT Diagnostic Monitor** — Real-time fiber fault detection across 12 OLT sites  
+🔧 Maintain **MikroTik RouterOS** configurations for multi-site ISP operations  
 
 ---
 
 ## 🛠️ Core Skills
 
-**IT Support & Systems:** Windows 10/11 Admin · Microsoft 365 · Helpdesk · SLA Management · IT Asset Management
-**Networking:** MikroTik RouterOS · BDCOM OLT (EPON/GPON) · SNMP · LAN/WAN · VLANs · NAT · DHCP · DNS · OSPF
-**Monitoring:** Zabbix · Custom SNMP NMS · OLT Rx Power Analysis · Real-time Fault Detection
-**Infrastructure:** Rack Setup · Structured Cabling · ONU Provisioning · Fiber Optics
+**IT Support & Systems:** Windows 10/11 Admin · Microsoft 365 · Helpdesk · SLA Management · IT Asset Management  
+**Networking:** MikroTik RouterOS · BDCOM OLT (EPON/GPON) · SNMP · LAN/WAN · VLANs · NAT · DHCP · DNS · OSPF  
+**Monitoring:** Custom SNMP NMS · OLT Rx Power Analysis · Real-time Fault Detection  
+**Infrastructure:** Rack Setup · Structured Cabling · ONU Provisioning · Fiber Optics  
 
 ---
 
@@ -39,16 +39,16 @@ Network and IT Support Engineer at **Drik ICT Ltd.** I design, build, and mainta
 
 ## 🏆 Certifications
 
-🥇 **CCNA** — Cisco Certified Network Associate
-🥇 **MTCNA** — MikroTik Certified Network Associate
-🥇 **MTCRE** — MikroTik Certified Routing Engineer
+🥇 **CCNA** — Cisco Certified Network Associate  
+🥇 **MTCNA** — MikroTik Certified Network Associate  
+🥇 **MTCRE** — MikroTik Certified Routing Engineer  
 
 ---
 
 ## 🎓 Education
 
-🎓 **MSc in EEE** — North South University (2023)
-🎓 **BSc in EEE** — American International University-Bangladesh (2020)
+🎓 **MSc in EEE** — North South University (2023)  
+🎓 **BSc in EEE** — American International University-Bangladesh (2020)  
 
 ---
 
